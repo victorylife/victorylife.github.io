@@ -1,0 +1,71 @@
+#GalleryMain18_1 #GallerySop18 {
+	margin:0 2px;
+}
+#GalleryMain18_1 .GallerySop18class {
+	display: none;
+	position: relative;
+	vertical-align: top;
+}
+#GalleryMain18_1 .GallerySop18classImage {
+	margin: 5px;
+	background-repeat: no-repeat;
+	width: 100px;
+	height: 70px;
+	background-position: center center;
+	background-color: white;
+	border: 4px solid white;
+	-moz-box-shadow: 0 0 10px #CCC;
+	-webkit-box-shadow: 0 0 10px #CCC;
+	box-shadow: 0 0 10px #CCC;
+}
+#GalleryMain18_1 .ButtonGalleryPager {
+	padding: 4px 7px;
+	border: 1px solid #CCC;
+	text-decoration: none;
+	color: #777;
+	display: inline;
+	position: relative;
+	top:35px;
+}
+#GalleryMain18_1 .ButtonGalleryPager:hover {
+	background-color: #EEE;
+	text-decoration: none;
+}
+
+#GallerySop18 {
+	display: block;
+	vertical-align: top;
+	margin:5px 30px;
+	margin: 0 auto;
+}
+#GallerySop18_ShowImage {
+	display: block;
+}
+.GallerySop18classBigImage {
+	margin: 5px;
+	background-repeat: no-repeat;
+	/*background-size: cover;*/
+	background-position: center center;
+	vertical-align: top;
+	background-color: white;
+	border: 4px solid white;
+	-moz-box-shadow: 0 0 10px #CCC;
+	-webkit-box-shadow: 0 0 10px #CCC;
+	box-shadow: 0 0 10px #CCC;
+	margin:5px 30px;
+	margin: 0 auto;
+}
+.GallerySop18classBigImageText {
+	position: relative;
+	color: white;
+	background: #3398B6;
+	background: rgba(51, 182, 182, .9);
+	height: 38px;
+	width: 100%;
+}
+#GallerySop18_Toolbar {
+	margin: 0 auto;
+}
+#GallerySop18_tumb {
+	display: inline;
+}

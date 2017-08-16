@@ -1,0 +1,54 @@
+.forum_AddButton {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3d94f6), color-stop(1, #1e62d0) );
+	background:-moz-linear-gradient( center top, #3d94f6 5%, #1e62d0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#3d94f6', endColorstr='#1e62d0');
+	background-color:#3d94f6;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #337fed;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 15px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #1570cd;
+}.forum_AddButton:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #1e62d0), color-stop(1, #3d94f6) );
+	background:-moz-linear-gradient( center top, #1e62d0 5%, #3d94f6 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1e62d0', endColorstr='#3d94f6');
+	background-color:#1e62d0;
+}.forum_AddButton:active {
+	position:relative;
+	top:1px;
+}
+
+.black12 {
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	font-family: arial;
+}
+
+.black14 {
+	font-size: 14px;
+	font-weight: normal;
+	color: #000000;
+	font-family: arial;
+}
+
+a.blue12link {
+	font-size: 12px;
+	font-weight: bold;
+	color: #0F4BFF;
+	font-family: arial;
+}
+
+.red12 {
+	font-size: 12px;
+	font-weight: normal;
+	color: #CC0000;
+	font-family: arial;
+}
